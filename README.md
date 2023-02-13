@@ -5,7 +5,7 @@ Demo code for adaptive app development techniques.
 
 
 
-# SS : 
+## ✌&ensp;Preview
 <br/><br/>
 
 <img src="https://i.imgur.com/9BQ0mnv.png" />
@@ -25,6 +25,7 @@ Demo code for adaptive app development techniques.
 
 ### Demonstrated in this repo:
 
+source : 
 [https://github.com/gskinnerTeam/flutter-adaptive-demo](https://github.com/gskinnerTeam/flutter-adaptive-demo)
 
 * Login view
